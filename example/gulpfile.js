@@ -1,0 +1,1 @@
+module.exports = require('husky-gulp-pages')
